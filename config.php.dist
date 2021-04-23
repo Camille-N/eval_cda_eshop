@@ -1,0 +1,12 @@
+<?php
+
+$config = [
+    'database' => [
+        'user' => '',
+        'host' => '',
+        'password' => '',
+        'dbName' => ''
+    ]
+];
+
+define('ENV', $config);
